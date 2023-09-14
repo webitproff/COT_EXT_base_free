@@ -1,0 +1,68 @@
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.wall-img .wall-img-item {
+    display: block;
+    float: left;
+    position: relative;
+    overflow: hidden;
+    border-radius: 2px;
+    border: 2px solid #fff;
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-position: center;
+    cursor: pointer;
+    -webkit-transition: opacity;
+    -o-transition: opacity;
+    transition: opacity;
+    -webkit-transition-duration: .2s;
+    transition-duration: .2s
+}
+.wall-img .wall-img-item:hover {
+    opacity: .8;
+    filter: alpha(opacity=80)
+}
+.wall-img .wall-img-item>img {
+    display: none
+}
+.wall-img .wall-img-item:first-child:nth-last-child(2),
+.wall-img .wall-img-item:first-child:nth-last-child(2)~a {
+    width: calc((100% / 2) - 4px);
+    padding-bottom: 40%
+}
+.wall-img .wall-img-item:first-child:nth-last-child(3),
+.wall-img .wall-img-item:first-child:nth-last-child(3)~a,
+.wall-img .wall-img-item:first-child:nth-last-child(4),
+.wall-img .wall-img-item:first-child:nth-last-child(4)~a:not(:last-child),
+.wall-img .wall-img-item:first-child:nth-last-child(5),
+.wall-img .wall-img-item:first-child:nth-last-child(5)~a:not(:nth-last-of-type(-n+2)),
+.wall-img .wall-img-item:first-child:nth-last-child(6),
+.wall-img .wall-img-item:first-child:nth-last-child(6)~a,
+.wall-img .wall-img-item:first-child:nth-last-child(7)~a:nth-last-of-type(-n+3) {
+    width: calc((100% / 3) - 4px);
+    padding-bottom: 30%
+}
+.wall-img .wall-img-item:first-child:nth-last-child(5)~a:nth-last-of-type(-n+2) {
+    width: calc((100% / 2) - 4px);
+    padding-bottom: 40%
+}
+.wall-img .wall-img-item:first-child:nth-last-child(7),
+.wall-img .wall-img-item:first-child:nth-last-child(7)~a:not(:nth-last-of-type(-n+3)),
+.wall-img .wall-img-item:first-child:nth-last-child(n+8),
+.wall-img .wall-img-item:first-child:nth-last-child(n+8)~a {
+    width: calc((100% / 4) - 4px);
+    padding-bottom: 22%
+}
+.wall-img .wall-img-item:first-child:nth-last-child(4)~a:nth-child(4),
+.wall-img .wall-img-item:only-child {
+    width: calc((100%) - 4px);
+    padding-bottom: 50%
+}
+.wall-img .wall-img-item:nth-child(8)~a {
+    display: none !important;
+}
