@@ -1,0 +1,31 @@
+.ds_avatar img {
+width: 50px;
+max-width: 50px;
+}
+
+.dialogmsg {
+min-height: 50px;
+}
+
+.dialoghover:hover {
+background: #E1EBF0;
+cursor: pointer;
+}
+
+.unreadmsg{
+background: #EDEDED;
+}
+
+.ds_scroll {
+overflow-y: scroll;
+height: 315px;
+}
+
+.ds_form {
+margin: 0px auto; 
+max-width: 50%;
+}
+
+.ds_form textarea{
+padding-right: 0px;
+}
