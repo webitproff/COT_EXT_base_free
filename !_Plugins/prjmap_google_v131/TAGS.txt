@@ -1,0 +1,6 @@
+projects.tpl, projects.step2.tpl: {PRJ_ADR}, {PRJ_ADR_TITLE};
+projects.add.tpl: {PRJADD_FORM_ADR}, {PRJADD_FORM_ADR_TITLE};
+projects.edit.tpl: {PRJEDIT_FORM_ADR}, {PRJEDIT_FORM_ADR_TITLE}; 
+
+projects.tpl: {PRJ_PRJMAP}
+index.tpl: {INDEX_PRJMAP}
