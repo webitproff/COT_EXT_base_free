@@ -1,0 +1,19 @@
+#onliner_widget {
+	position:fixed; /* this is the magic */
+	bottom:100px; /* together with this to put the div at the bottom*/
+	right: 0px;
+	background-color:#FCF4ED;
+	padding: 10px 10px 20px 10px;
+	border: #CCC solid 1px;
+	width: 19%;
+	z-index: 100;
+}
+#onliner_widget h4 {
+	font-size: 14px;
+	margin: 0 0 5px 0;
+	padding: 0;
+}
+#onliner_widget .online_widget_list {
+	max-height: 200px;
+	overflow: auto;
+}
