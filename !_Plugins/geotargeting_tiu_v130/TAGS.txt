@@ -1,0 +1,31 @@
+﻿Тэг {PRDEDIT_FORM_LOCATION} для
+products.edit.tpl
+
+Тэг {PRDADD_FORM_LOCATION} для
+products.add.tpl
+
+Тэги {PRD_COUNTRY} {PRD_REGION} {PRD_CITY}
+products.tpl
+
+Тэги {PRD_ROW_COUNTRY} {PRD_ROW_REGION} {PRD_ROW_CITY}
+products.list.index.tpl
+
+Тэги {PRD_ROW_COUNTRY} {PRD_ROW_REGION} {PRD_ROW_CITY}
+products.list.tpl
+products.list.unvalidated.tpl
+products.list.vip.tpl
+
+Тэги {ADMIN_PRD_COUNTRY} {PRD_ROW_REGION} {PRD_ROW_CITY}
+products.admin.tpl
+
+Тэги {USERS_ROW_COUNTRY} {USERS_ROW_REGION} {USERS_ROW_CITY}
+users.sellers.tpl
+users.customers.tpl
+
+{USERS_DETAILS_LOCATION} для users.details.tpl
+
+{USERS_REGISTER_LOCATION} для users.register.tpl
+
+{USERS_PROFILE_LOCATION} для users.profile.tpl
+
+{USERS_EDIT_LOCATION} для users.edit.tpl

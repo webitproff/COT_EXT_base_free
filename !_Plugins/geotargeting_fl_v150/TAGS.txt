@@ -1,0 +1,21 @@
+﻿В файле header.tpl после <body> добавляем тэг {HEADER_GEOTARGETING_MODAL}
+</head>
+<body>
+{HEADER_GEOTARGETING_MODAL}
+
+
+
+Затем в том же файле ищем строчки
+<div id="wrapper" class="container">
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="navbar-inner">
+            <div class="container">
+                         ///вставляем сюда
+                    <ul class="nav pull-right">
+                        <!-- BEGIN: GUEST -->
+
+После <div class="container"> Вставляем код:
+	
+<ul class="nav pull-left">
+{HEADER_GEOTARGETING}        
+</ul>
