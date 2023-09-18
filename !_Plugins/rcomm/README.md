@@ -71,10 +71,10 @@ RU
 Эта версия плагина предназначена для Siena 0.9.14. - 0.9.24
 [обсудить](https://www.cotonti.com/ru/forums?m=posts&q=7524)
 <hr />
-<a href="https://raw.githubusercontent.com/webitproff/cot_rcomm/main/screen/screen-001.jpg"><img  src="https://raw.githubusercontent.com/webitproff/cot_rcomm/main/screen/screen-001.jpg" width="860" height="" /></a>
+<a href="https://github.com/webitproff/COT_EXT_base_free/blob/main/screens-demo/rcomm/screen-001.jpg"><img src="https://github.com/webitproff/COT_EXT_base_free/blob/main/screens-demo/rcomm/screen-001.jpg" width="860" height="" /></a>
 <hr />
-<a href="https://raw.githubusercontent.com/webitproff/cot_rcomm/main/screen/screen-002.jpg"><img  src="https://raw.githubusercontent.com/webitproff/cot_rcomm/main/screen/screen-002.jpg" width="860" height="" /></a>
+<a href="https://github.com/webitproff/COT_EXT_base_free/blob/main/screens-demo/rcomm/screen-002.jpg"><img src="https://github.com/webitproff/COT_EXT_base_free/blob/main/screens-demo/rcomm/screen-002.jpg" width="860" height="" /></a>
 <hr />
-<a href="https://raw.githubusercontent.com/webitproff/cot_rcomm/main/screen/screen-003.jpg"><img  src="https://raw.githubusercontent.com/webitproff/cot_rcomm/main/screen/screen-003.jpg" width="860" height="" /></a>
+<a href="https://github.com/webitproff/COT_EXT_base_free/blob/main/screens-demo/rcomm/screen-003.jpg"><img src="https://github.com/webitproff/COT_EXT_base_free/blob/main/screens-demo/rcomm/screen-003.jpg" width="860" height="" /></a>
 
 
