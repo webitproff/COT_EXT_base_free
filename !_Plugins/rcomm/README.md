@@ -2,7 +2,7 @@
 
 EN
 
-Replies to comments
+Replies to comments [LIVE DEMO](https://masterscity.abuyfile.com/news/dvizhok-marketpleysa-frilans-birzhi)
 
 The organization of the responses to comments
 
@@ -38,7 +38,7 @@ This version of the plugin is designed for Siena 0.9.14. - 0.9.24
 
 RU
 
-Ответы на комментарии
+Ответы на комментарии [LIVE DEMO](https://masterscity.abuyfile.com/news/dvizhok-marketpleysa-frilans-birzhi)
 
 Организация ответов на комментарии
 
