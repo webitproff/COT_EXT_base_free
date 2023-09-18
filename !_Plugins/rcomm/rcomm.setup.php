@@ -4,18 +4,18 @@
 [BEGIN_COT_EXT]
 Code=rcomm
 Name=Reply for Comments
-Description=Организация ответов в комментариях
-Version=1.4
-Date=13.08.2013
-Updated=13.08.2013
+Description=Allows users to respond to comments on publications on the site
+Version=1.4.1
+Date=2023/09/17
 Author=Dr2005alex
-Copyright=&copy; Dr2005alex
-Notes= Не устанавливайте данный плагин, если у вас не установлен плагин Comments system
+Copyright=&copy; 2013 - 2023 Dr2005alex (Dr2005alex@mail.ru) Updated and bugfixed by Dmitri Beliavski (https://sed.by/) Cotonti Team
+Notes=Compatible with Cotonti 0.9.24. 
 SQL=
 Auth_guests=R
 Lock_guests=12345A
 Auth_members=RW
 Lock_members=
+Requires_plugins=comments
 [END_COT_EXT]
 
 [BEGIN_COT_EXT_CONFIG]
@@ -30,13 +30,3 @@ pm_send=08:radio::1: send pm user
 mail_send=09:radio::1: send mail
 [END_COT_EXT_CONFIG]]
 ==================== */
-
-/*************************************/
-/* "Reply for comments"              */
-/*  Autor Dr2005alex                 */
-/*  Dr2005alex@mail.ru               */
-/*  Start Version: Siena   0.9.14    */
-/*************************************/
-
-
-?>
