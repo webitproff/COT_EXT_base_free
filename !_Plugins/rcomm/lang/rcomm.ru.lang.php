@@ -4,13 +4,14 @@
  *
  * @package rcomm
  * @author Dr2005alex
- * @copyright Copyright (c) Dr2005alex 2013 | Updated and bugfixed by Dmitri Beliavski (https://sed.by/) 2023
+ * @copyright Copyright (c) Dr2005alex 2013 | 2023
  * @license BSD License
  **/
 
 defined('COT_CODE') or die('Wrong URL');
 $L['info_name'] = 'Ответ на комментарий';
 $L['info_desc'] = 'Позволяет пользователям отвечать на комментарии к публикациям на сайте';
+$L['info_notes'] = 'Синтаксические правки локализации Tested on Cotonti engine v.0.9.24 | PHP v.7.4.33 | MySQL 5.7 | server Apache 2.4 | <a target="_blank" href="https://t.me/webitproff"><b>webitproff<b></a> ';
 $L['rcomm_writes']="пишет";
 $L['rcomm_reply']="ответить";
 $L['rcomm_reply_send']="Отправить ответ";
