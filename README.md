@@ -1,7 +1,7 @@
 # COT_EXT_base_free
 Стартовые, исходные, базовые расширения, модули и плагины для движка [Cotonti Siena](https://github.com/Cotonti/Cotonti).
 
-***список плагинов с [пояснениями](https://docs.google.com/spreadsheets/d/1f8USw89ia79RkIHBIAaJiZhZrLwELQJtAeTZscQgsBk/)*** обновлено 14.09.2023
+***список плагинов с [пояснениями](https://docs.google.com/spreadsheets/d/1f8USw89ia79RkIHBIAaJiZhZrLwELQJtAeTZscQgsBk/)*** обновлено 24.09.2023
 
 Расширенные и переработанные версии расширений и документация к ним имеют ограниченный доступ. 
 
