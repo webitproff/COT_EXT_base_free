@@ -1,0 +1,1 @@
+ALTER TABLE `cot_amarket_orders` ADD COLUMN `amo_cancel_reason` text collate utf8_unicode_ci;
