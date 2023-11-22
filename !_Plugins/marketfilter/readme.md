@@ -1,5 +1,6 @@
-Market Filter плагин для фриланс-биржи
+# Market Filter плагин для фриланс-биржи
 https://freelance-script.abuyfile.com/market-filter-ajax/
+
 Установка:
 
 Заливаем файлы на сервер в папку с плагинами (plugins)
