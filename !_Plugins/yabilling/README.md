@@ -1,4 +1,6 @@
 Платежный плагин для подключения Яндекс.денег к модулю Payments для Cotonti
+как настроить
+https://freelance-script.abuyfile.com/plugin-yabilling/ 
 
 Разработчик: Булат Юсупов cmsworks.ru
 
